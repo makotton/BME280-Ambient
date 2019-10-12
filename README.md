@@ -34,5 +34,3 @@ BME280-Ambient is available under the MIT license. See the LICENSE file for more
 https://github.com/SWITCHSCIENCE/BME280
 
 BME280 on Raspberry Pi by I2C
-
-git remote add origin https://github.com/makotton/BME280-Ambient.git
